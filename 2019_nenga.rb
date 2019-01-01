@@ -1,0 +1,70 @@
+eval$s=%w'b="BAhsKwJrA//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////38AAAAAAAAAAAAAAAAAAAAAAAAAAAD+//9/AAAAAAAAAAAAAAAAAAAAAAAAAAAA/v//fwAAAAAAAAAAAAAAAAAAAAAAAAAAAP7//38AAAAAAAA
+AAAAAAAAAAAAAAAAAAAD+//9/AAAAAAAAAAAAAAAAAAAAAAAAAAAA/v//fwAAAAAAAAAAAAAAAAAAAAAAAAAAAP7//38AAAAAAAAAAAAAAAAAAAAAAAAAAAD+//9/AAAAAAAAAAAAAAAAAAAAAAAAAAAA/v//fwAAAAAAAAAAAAAAAAAAAAAAAAAAAP7//3+A/////38
+A/////wf//x/+/////wH+//9/gP////9/AP////8H//8f/v////8B/v//f4D/////fwD/////B///H/7/////Af7//3+A/////3/4/////wf//x/+/////wH+//9/gP////9/+P////8H//8f/v////8B/v//f4D/f8D/f/j/D/j/B/D/H/7/A/7/Af7//3+A/3/A/3/
+4/w/4/wfw/x/+/wP+/wH+//9/gP9/wP9/+P8P+P8H8P8f/v8D/v8B/v//f4D/f8D/f/j/D/j/B/D/H/7/A/7/Af7//38AAADA/3/4/w/4/wfw/x/+/wP+/wH+//9/AAAAwP9/+P8P+P8H8P8f/v8D/v8B/v//f4D/////f/j/D/j/B/D/H/7/////Af7//3+A/////3/
+4/w/4/wfw/x/+/////wH+//9/gP////9/+P8P+P8H8P8fwP////8B/v//f4D/////f/j/D/j/B/D/H8D/////Af7//3+A/////3/4/w/4/wfw/x/A/////wH+//9/gP9/AAAA+P8P+P8H8P8fAAAA/v8B/v//f4D/fwAAAPj/D/j/B/D/HwAAAP7/Af7//3+A/////3/
+4/////wfw/x8AAAD+/wH+//9/gP////9/+P////8H8P8fAAAA/v8B/v//f4D/////f/j/////B/D/HwAAAP7/Af7//3+A/////3/4/////wfw/x8AAAD+/wH+//9/gP////9/+P////8H8P8fAAAA/v8B/v//f4D/////f/D/////B/D/HwAAAP7/Af7//38AAAAAAAA
+AAAAAAAAAAAAAAAAAAAD+//9/AAAAAAAAAAAAAAAAAAAAAAAAAAAA/v//fwAAAAAAAAAAAAAAAAAAAAAAAAAAAP7//38AAAAAAAAAAAAAAAAAAAAAAAAAAAD+//9/gOfxj//9z/PAw/M/5xzwvP/xj/8B/v//f4DneZ7nfc7zwM/zAOcc8LwHeJ7nAf7//3+A53me533
+O88Df8z/nHPC8/3                                                                                                                                                                          me5wH+//9/gP95n
+ud9zvPA//M/5xzw                                                                                                                                                                          vP95nucB/v//f4D
+/+Z///Mf/wPPzAO                                                                                                                                                                          cc8L8H+J9/AP7//
+3+A53meB3wAHsDD                                                                                                                                                                          8zznHICH53me5wH
++//9/gOd5ngd8AB                                                                                                                                                                          7Aw/M8/x+Ah+d5n
+ucB/v//f4DneZ4H                                                                                                                                                                          fAAewMPzP/8PgIf
+/eZ7nAf7//38AAA                                                                                                                                                                          AAAAAAAAAAAAAAA
+AAAAAAAAAD+//9/                                                                                                                                                                          AAAAAAAAAAAAAAA
+AAAAAAAAAAAAA/v                                                                                                                                                                          //fwAAAAAAAAAAA
+AAAAAAAAAAAAAAA        AP7//38AAAAAAAAAAAAAAAAAAAAAAAAAAAD+//9/         AAAAAAAAAAAAAAAAAAAAAAAAAAAA/v//fwA     AAAAAAAAAAAAAAAAAAAAA    AAAAAP7//38AAAAAAAAAAAAAAAAAAAAAAAAAAAD+        //9/AAAAAAAAAAA
+AAAAAAAAAAAAAAA        AA/v//fwAAAAAAAAAAAAAAAAAAAAAAAAAAAP7///         ///////////////////////////////////     /////////////////////    ////////////////////////////////////////        ///////////////
+///////////////        ////////////////////////////////////////         ///////////////////////////////////     /////////////////////    ////////////////////////////////////////        //8=";n=Marshal
+.load(b.unpack(        "m")[0]);q="eval$s=%w"<<39<<($s*7);a=70;    b=200;c="";j=-1;0.upto(a*b-1){|e|c<<((n[     e]==1)?q[j+=1]:32);c<    <((e%b==b-1)?10:"");};c[-62,55]="IHJ1biB        0aGlzIHNjcmlwdC
+A6ICQgY3VybCBod        HRwczovL2JpdC5seS8yczFqdzNzIHwgcnVieQ=="    .unpack("m")[0];c[-7,6]=""<<39<<".join";     puts(c)#b="BAhsKwJrA/    ////////////////////////////////////////        ///////////////
+///////////////        ////////////////       /////////////////    /////////////////       ////////////////         /////////////////    /////////////////       ////////////////        ///////////////
+///////////////        ////////////////       /////////////////    /////////////////       /38AAAAAAAAAAAAA         AAAAAAAAAAAAAAD+/    /9/AAAAAAAAAAAAAA       AAAAAAAAAAAAAA/v        //fwAAAAAAAAAAA
+AAAAAAAAAAAAAAA        AP7//38AAAAAAAAA       AAAAAAAAAAAAAAAAA    AD+//9/AAAAAAAAAA       AAAAAAAAAAAAAAAA         AA/v//fwAAAAAAAAA    AAAAAAAAAAAAAAAAA       AP7//38AAAAAAAAA        AAAAAAAAAAAAAAA
+AAAD+//9/AAAAAA        AAAAAAAAAAAAAAAA       AAAAAA/v//fwAAAAA    AAAAAAAAAAAAAAAAA       AAAAAP7//3+A////         /38A/////wf//x/+/    ////wH+//9/gP////       9/AP////8H//8f/v        ////8B/v//f4D//
+///fwD/////B///                               H/7/////Af7//3+A/    ////3/4/////wf//x       /+/////wH+//9/gP         ////9/+P////8H//8    f/v////8B/v//f4D/       f8D/f/j/D/j/B/D/        H/7/A/7/Af7//3+
+A/3/A/3/4/w/4/w                               fw/x/+/wP+/wH+//9    /gP9/wP9/+P8P+P8H       8P8f/v8D/v8B/v//         f4D/f8D/f/j/D/j/B    /D/H/7/A/7/Af7//3       8AAADA/3/4/w/4/w        fw/x/+/wP+/wH+/
+/9/AAAAwP9/+P8P        +P8H8P8f/v8D/v8B/v//f4D/////f/j/D/j/B/D/    H/7/////Af7//3+A/       ////3/4/w/4/wfw/         x/+/////wH+//9/gP    ////9/+P8P+P8H8P8fwP////8B/v//f4D/////f/        j/D/j/B/D/H8D//
+///Af7//3+A////        /3/4/w/4/wfw/x/A/////wH+//9/gP9/AAAA+P8P    +P8H8P8fAAAA/v8B/       v//f4D/fwAAAPj/D         /j/B/D/HwAAAP7/Af    7//3+A/////3/4/////wfw/x8AAAD+/wH+//9/gP        ////9/+P////8H8
+P8fAAAA/v8B/v//        f4D/////f/j/////B/D/HwAAAP7/Af7//3+A////    /3/4/////wfw/x8AA       AD+/wH+//9/gP///         /9/+P////8H8P8fAA         AA/v8B/v//f4D/////f/D/////B/D/HwAAA        P7/Af7//38AAAAA
+AAAAAAAAAAAAAAA        AAAAAAAD+//9/AAAAAAAAAAAAAAAAAAAAAAAAAAA    A/v//fwAAAAAAAAAA       AAAAAAAAAAAAAAAA         AP7//38AAAAAAAAAA         AAAAAAAAAAAAAAAAAD+//9/gOfxj//9z/PA        w/M/5xzwvP/xj/8
+B/v//f4DneZ7nfc        7zwM/zAOcc8LwHeJ7nAf7//3+A53me533O88Df8z    /nHPC8/3me5wH+//9       /gP95nud9zvPA//M         /5xzwvP95nucB/v//         f4D/+Z///Mf/wPPzAOcc8L8H+J9/AP7//3+        A53meB3wAHsDD8z
+znHICH53me5wH+/        /9/gOd5ngd8AB7Aw                            /M8/x+Ah+d5nucB/v       //f4DneZ4HfAAewM         PzP/8PgIf/eZ7nAf7                            //38AAAAAAAAAAAA        AAAAAAAAAAAAAAA
+D+//9/AAAAAAAAA        AAAAAAAAAAAAAAAA                            AAA/v//fwAAAAAAAA       AAAAAAAAAAAAAAAA         AAAP7//38AAAAAAAA                            AAAAAAAAAAAAAAAA        AAAD+//9/AAAAAA
+AAAAAAAAAAAAAAA        AAAAAAA/v//fwAAAAAAAAAAAAAAAAAAAAAAAAAAA    P7//38AAAAAAAAAAAAAAAAAAAAAAAAAAAD+//9/A         AAAAAAAAAAAAAAAAA                            AAAAAAAAAA/v//fw        AAAAAAAAAAAAAAA
+AAAAAAAAAAAAP7/        ////////////////////////////////////////    ////////////////////////////////////////         /////////////////                            ////////////////        ///////////////
+///////////////        ////////////////////////////////////////    ////////////////////////////////////////         /////////////////                            ////////////////        //////////8=";n
+=Marshal.load(b        .unpack("m")[0]);q="eval$s=%w"<<39<<($s*    7);a=70;b=200;c="";j=-1;0.upto(a*b-1){|e         |c<<((n[e]==1)?q[                            j+=1]:32);c<<((e        %b==b-1)?10:"")
+;};c[-62,55]="I        HJ1biB0aGlzIHNjcmlwdCA6ICQgY3VybCBodHRwc    zovL2JpdC5seS8yczFqdzNzIHwgcnVieQ==".unp         ack("m")[0];c[-7,                            6]=""<<39<<".joi        n";puts(c)#b="B
+AhsKwJrA///////        ////////////////////////////////////////     ///////////////////////////////////////         /////////////////                            ////////////////        ///////////////
+///////////////                                                                                                                                                                          ///////////////
+///////////////                                                                                                                                                                          ///////////////
+///////////////                                                                                                                                                                          ///////////////
+///////////////                                                                                                                                                                          ///////////////
+//////////////3        8AAA  AAAA   AAAAAAAA   AAAAAAAAAA AAD+//9/AA  AAAA  AAAA      AAAA    AAAA  AAAAAAAAAA  /v/  /fw  AAA       AAAA  AAAA AAAAAAAAAA   AAAAAAP7   //38AAAAAA        AAAAAAAAAAAAAAA
+AAAAAAD+//9/AAA        AAAA  AAAA  AAAA  AAAA  AAAA  AAAA A/v//  fwA  AAAA  AAAA      AAAAAA  AAAA  AAAA        AAA  AP7  //3       8AAA  AAAA AAAA        AAAA  AAAA  AAAA  AAAA        D+//9/AAAAAAAAA
+AAAAAAAAAAAAAAA        AAAA  /v//  fwAA  AAAA  AAAA  AAAA AAAAA  AAA  AAAA  AP7/      /3+A/// //38  A/////wf//  x/+  ///  //w       H+//  9/gP ////9/AP//  //8H  //8f  /v//  //8B        /v//f4D/////fwD
+/////B///H/7///        //Af7//3+A  ////  /3/4  ////  /wf/ /x/+/  ///  /wH+  //9/      gP////9/+P//  //8H//8f/v  ///  /8B  /v/       /f4D  /f8D /f/j/D/j/B  /D/H  /7/A  /7/A  f7//        3+A/3/A/3/4/w/4
+/wfw/x/+/wP+/wH        +//9/gP9/w  P9/+P8P+P8  H8P8f/v8D  /v8B/v//f   4D/f8D/f/j      /D/j  /B/D/H  /7/A        /7/  Af7  //3       8AAADA/3/4 /w/4        /wfw/x/+/w  P+/wH+//          9/AAAAwP9/+P8P+
+P8H8P8f/v8D/v8B        /v//  f4D/  ////  f/j/  D/j/       B/D/H          /7//         ///A    f7//  3+A/  ////  3/4  /w/  4/w          fw/x    /+//  ///w  H+//  9/gP  ////  9/+P        8P+P8H8P8fwP///
+/8B/v//f4D/////        f/j/  D/j/  B/D/  H8D/  ////       Af7//          3+A/         ////    3/4/  w/4/  wfw/  x/A/////wH+//          9/gP    9/AA  AA+P  8P+P  8H8P  8fAA  AA/v        8B/v//f4D/fwAAA
+Pj/D/j/B/D/HwAA        AP7/  Af7/  /3+A  ////  /3/4       /////          wfw/         x8AA    AD+/  wH+//9/gP/  ///9/+P////8           H8P8    fAAAA/v8B/  v//f  4D//  ///f  /j//        ///B/D/HwAAAP7/
+Af7//3+A/////3/                                                                                                                                                                          4/////wfw/x8AAA
+D+/wH+//9/gP///                                                                                                                                                                          /9/+P////8H8P8f
+AAAA/v8B/v//f4D                                                                                                                                                                          /////f/D/////B/
+D/HwAAAP7/Af7//                                                                                                                                                                          38AAAAAAAAAAAAA
+AAAAAAAAAAAAAAD                                                                                                                                                                          +//9/AAAAAAAAAA
+AAAAAAAAAAAAAAA                                                                                                                                                                          AAA/v//fwAAAAAA
+AAAAAAAAAAAAAAA                                                                                                                                                                          AAAAAAP7//38AAA
+AAAAAAAAAAAAAAA                                                                                                                                                                          AAAAAAAAAD+//9/
+gOfxj//9z/PAw/M                                                                                                                                                                          /5xzwvP/xj/8B/v
+//f4DneZ7nfc7zwM/zAOcc8LwHeJ7nAf7//3+A53me533O88Df8z/nHPC8/3me5wH+//9/gP95nud9zvPA//M/5xzwvP95nucB/v//f4D/+Z///Mf/wPPzAOcc8L8H+J9/AP7//3+A53meB3wAHsDD8zznHICH53me5wH+//9/gOd5ngd8AB7Aw/M8/x+Ah+d5nucB/v
+//f4DneZ4HfAAewMPzP/8PgIf/eZ7nAf7//38AAAAAAAAAAAAAAAAAAAAAAAAAAAD+//9/AAAAAAAAAAAAAAAAAAAAAAAAAAAA/v//fwAAAAAAAAAAAAAAAAAAAAAAAAAAAP7//38AAAAAAAAAAAAAAAAAAAAAAAAAAAD+//9/AAAAAAAAAAAAAAAAAAAAAAAAAAAA/v
+//fwAAAAAAAAAAAAAAAAAAAAAAAAAAAP7//38AAAAAAAAAAAAAAAAAAAAAAAAAAAD+//9/AAAAAAAAAAAAAAAAAAAAAAAAAAAA/v//fwAAAAAAAAAAAAAAAAAAAAAAAAAAAP7///////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+8=";n=Marshal.load(b.unpack("m")[0]);q="eval$s=%w"<<39<<($s*7);a=70;b=200;c="";j=-1;0.upto(a*b-1){|e|c<<((n[e]==1)?q[j+=1]:32);c<<((e%b==b-1)?10:"");};c[-62,55]="IHJ1biB0aGlzIHNjcmlwdCA6ICQgY3VybCBodH
+RwczovL2JpdC5seS8yczFqdzNzIHwgcnVieQ==".unpack("m")[0];c[-7,6]=""<<39<<".join";puts(c)#b="BAhsKwJrA/////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////38AAAAAAAAAAAAAAAAAAAAAAAAAAAD+//
+9/AAAAAAAAAAAAAAAAAAAAAAAAAAAA/v//fwAAAAAAAAAAAAAAAAAAAAAAAAAAAP7//38AAAAAAAAAAAAAAAAAAAAAAAAAAAD+//9/AAAAAAAAAAAAAAAAAAAAAAAAAAAA/v//fwAAA run this script : $ curl https://bit.ly/2s1jw3s | ruby'.join
